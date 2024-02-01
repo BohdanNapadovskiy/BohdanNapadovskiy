@@ -1,4 +1,4 @@
-### Hi there 👋 I'm [Bohdan]
+### Hi there 👋 I'm Bohdan
 ### Java Software Engineer from Ukraine ![](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ua.png)
 ___
 
